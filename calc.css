@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.camilo{
+   height:calc(100vh - 600px) ;
+   width: calc(100vh -200px);
+   background: aqua;
+
+}
